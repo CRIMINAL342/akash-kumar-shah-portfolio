@@ -1,2 +1,3 @@
-# akash-kumar-shah-portfolio
-Akash Kumar Shah Computer Science Engineer &amp; AI Enthusiast  Python, machine learning, and AI expert. Experienced in Django, Flask, NumPy, Pandas, and OpenCV. Completed courses from IIT Kanpur. Award-winning projects in data processing and face recognition.
+# Akash Kumar Shah - Portfolio
+
+This is my portfolio website, showcasing my skills and experience as a software developer.
